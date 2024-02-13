@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atifiu
-- 👀 I’m interested in ...python, data science and data analysis
+- 👀 I’m interested in ...Data Engineering, Big Data Projects, python, data science and data analysis
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...sql, python
 - 📫 How to reach me ...atif.iu@gmail.com
